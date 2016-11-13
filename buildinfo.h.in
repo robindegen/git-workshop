@@ -1,0 +1,12 @@
+#ifndef __BUILD_INFO_H__
+#define __BUILD_INFO_H__
+
+/*!
+ * NOTE: This is a generated file. Do not modify!
+ */
+
+#define GIT_DESCRIBE_VERSION "@GITWORKSHOP_GIT_DESCRIBE@"
+#define BUILD_DATE "@GITWORKSHOP_BUILD_DATE@"
+
+#endif /* __BUILD_INFO_H__ */
+
