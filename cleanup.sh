@@ -1,1 +1,1 @@
-del build
+rm -rf buil
