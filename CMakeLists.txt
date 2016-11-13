@@ -4,7 +4,12 @@ project(GitWorkshop)
 
 set(GIT_WORKSHOP_SOURCE
     main.c
+    hello_world.c
 )
 
-add_executable(hello_world ${GIT_WORKSHOP_SOURCE})
+set(GIT_WORKSHOP_HEADERS
+    hello_world.h
+)
+
+add_executable(hello_world ${GIT_WORKSHOP_SOURCE} ${GIT_WORKSHOP_HEADERS})
 
