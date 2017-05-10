@@ -1,5 +1,10 @@
 // This is a source file!
 
+void AnotherFunction()
+{
+    DoSomeStuff();
+}
+
 int MyAmazingFunction(int value)
 {
     if (value == 1337)
