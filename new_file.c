@@ -7,7 +7,7 @@ void AnotherFunction()
 
 int MyAmazingFunction(int value, int value2)
 {
-    if (value == 1337 && value2 == 1339)
+    if (value == 1337 && value2 == 2000)
     {
         return 0;
     }
