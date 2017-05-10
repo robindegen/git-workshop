@@ -2,7 +2,7 @@
 
 int MyAmazingFunction(int value)
 {
-    if (value == 1337)
+    if (1337 == value)
     {
         return 0;
     }
